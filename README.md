@@ -13,4 +13,5 @@ spacings are a bit all over the place. it seems when i try to position the toolt
 </br>[18/01, 20:25] Alski Wolski: And finally, you need a position:relative; on the li tags there
 </br>[18/01, 20:25] Alski Wolski: Or the as
 </br><b>still cant get this friggin thing working. i reallythink that there must be a referenced css file in the html thats screwing my css up - hence the text not being displayed in the tool tips. The text is present because when i change the content, the tool tip changes size to accomodate it!</b>
+</br>Also the tooltip is disappearing behind the containing div and i cant for the life of me figure out why!
 
